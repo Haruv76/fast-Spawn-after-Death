@@ -1,6 +1,6 @@
 # fast-Spawn-after-Death
 In lua - roblox studio 
-Simple and short script that makes players spawn faster after death
+Simple and short script that ensures that when a player dies, they will be respawned immediately and not after a few seconds.
 
 <bold>how to use<bold>
 
